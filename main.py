@@ -108,7 +108,7 @@ class PresentationGenerator:
 
 
  
-llm = Groq(model='llama-3.3-70b-versatile', api_key="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")
+llm = Groq(model='llama-3.3-70b-versatile', api_key="get from groq dashboard")
 
  
 generator = PresentationGenerator(
